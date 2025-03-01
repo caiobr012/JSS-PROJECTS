@@ -98,8 +98,7 @@ string.repeat(x) - repete a string x vezes
 */
 
 
-/*JSON*/
-
+/*JSON
 const myJson = '{"name": "caio", "idade": 20, "hobbies": ["Jogar bola", "nadar", "comer"]}';
 console.log(myJson);
 
@@ -108,4 +107,15 @@ console.log(myObj);
 
 const anotherJson = JSON.stringify(myObj);
 console.log(anotherJson);
+*/
 
+/*
+"use strict"; - Deixa seu código mais rigoroso
+DEBUGGER; - Divide o código em etapas
+throw new Error(""); - Emite Erro na tela
+
+try { 
+} catch () {
+} finally {
+}
+*/
